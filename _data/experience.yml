@@ -1,9 +1,22 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: FAST-NUCES, Peshawar Campus
+  position: Lecturer (Department of Computer Science)
+  duration: Jan, 2023 &mdash; Present
+  summary: <h3>Lecturer (Department of AI)</h3>
+<p>
+As a Lecturer in the Department of AI, I design and teach core courses including Artificial Intelligence, Machine Learning, Natural Language Processing, and Knowledge Representation and Reasoning, while supervising impactful final year projects that apply advanced AI to real-world challenges.
+</p>
+<ul class="resume-item-list">
+    <li><strong>Automation of Image Editing using AI:</strong> Led a team developing AI-driven tools to automate and enhance image editing processes.</li>
+    <li><strong>AI-Tutor:</strong> Personalized learning system using advanced language models in local languages to expand accessible education.</li>
+    <li><strong>Travel AI:</strong> AI-powered travel solutions acquired by the Government of KPK for public sector use.</li>
+    <li><strong>German Mastery with AI Chatbot and Roman Urdu:</strong> A1-A2 proficiency learning system for German using conversational AI in Roman Urdu.</li>
+    <li><strong>Smart Pillow:</strong> AI-powered posture correction pillow fully funded by the Government of Pakistan for health-tech innovation.</li>
+    <li><strong>RAD:</strong> Real-Time Audio Call Scam Detection system to protect users during live calls using AI.</li>
+    <li><strong>Physics-Informed Neural Networks:</strong> Spaghetti bridge weight prediction project funded by ORIC-FAST, combining physics models with deep learning.</li>
+    <li><strong>Intelligent Bot:</strong> Natural language-driven data retrieval system for efficient information extraction.</li>
+</ul>
 
 # Director of Digital Stratgy
 - company: United Nations Human Rights Council
