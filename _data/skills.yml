@@ -1,11 +1,11 @@
 # Skills
 # Organizational leadership
 - skill: Tech skills
-  description: Briefly, my area of expertise lies in the field of Artificial Intelligence and Natural Language Processing. If I list all items they will be as follows<ul class="resume-item-list"><li>Python</li><li>Machine Learning </li><li>Generative Ai</li><i> LLMs (Fine-tuining, API Calls, RAG) </i><i> Synthetic Data Generation</i><i>NLU/NLG</i><i>Conversional Chatbots</i><i>Evolutionary Algorithms</i></ul>
+  description: Briefly, my area of expertise lies in the field of Artificial Intelligence and Natural Language Processing. If I list all items they will be as follows<ul class="resume-item-list"><li>Python</li><li>Machine Learning </li><li>Generative Ai</li> <li> LLMs <i>(Fine-tuining, API Calls, RAG) </i></li><li>Synthetic Data Generation</li><li>NLU/NLG</li><li>Conversional Chatbots</li><li>Evolutionary Algorithms</li></ul>
 
 # Communications strategy
 - skill: Leadership skills
-  description: I believe I am really good at lead positions. My skill set includes <ul class="resume-item-list"><li>Ownership</li><i>Time Management</i><li>Identifing and solving problem in limited resources</li><li>R&D and development; both are my cup of tea</li></ul>
+  description: I believe I am really good at lead positions. My skill set includes <ul class="resume-item-list"><li>Ownership</li><li>Time Management</li><li>Identifing and solving problem in limited resources</li><li>R&D and development; both are my cup of tea</li></ul>
 
 # # Digital content development and creation
 # - skill: Lanuga
