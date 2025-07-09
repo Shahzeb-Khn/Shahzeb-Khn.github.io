@@ -3,17 +3,15 @@
 - company: FAST-NUCES, Peshawar Campus
   position: Lecturer (Department of Computer Science)
   duration: Jan, 2023 &mdash; Present
-  summary: |
+  summary:summary: |
   As a Lecturer in the Department of AI, I design and teach core courses including Artificial Intelligence, Machine Learning, Natural Language Processing, and Knowledge Representation and Reasoning, while supervising impactful final year projects that apply advanced AI to real-world challenges.
 
-  - Automation of Image Editing using AI - Led a team developing AI-driven tools to automate and enhance image editing processes.
-  - AI-Tutor - Personalized learning system using advanced language models in local languages to expand accessible education.
-  - Travel AI - AI-powered travel solutions acquired by the Government of KPK for public sector use.
-  - German Mastery with AI Chatbot and Roman Urdu - A1-A2 proficiency learning system for German using conversational AI in Roman Urdu.
-  - Smart Pillow - AI-powered posture correction pillow fully funded by the Government of Pakistan for health-tech innovation.
-  - RAD - Real-Time Audio Call Scam Detection system to protect users during live calls using AI.
-  - Physics-Informed Neural Networks - Spaghetti bridge weight prediction project funded by ORIC-FAST, combining physics models with deep learning.
-  - Intelligent Bot - Natural language-driven data retrieval system for efficient information extraction.
+  <ul class="resume-item-list">
+    <li>Developed "Travel AI," an AI-powered travel solution acquired by the Government of KPK for public sector deployment.</li>
+    <li>Supervised "Smart Pillow," an AI-powered posture correction system fully funded by the Government of Pakistan, showcasing health-tech innovation.</li>
+    <li>Led the AI-Tutor team, creating personalized learning systems using advanced language models in local languages to expand accessible education.</li>
+  </ul>
+
 
 
 
