@@ -4,7 +4,7 @@
   year: 2020 &mdash; 2022
   # awards:
   #   - award: Summa Cumme Laude graduate
-  summary: 
+  summary: 	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></u
       - summary: Explored technology like Natural Language understanding (NLU), Natural Language Generation (NLG) and Conversational Bots.
       - summary: Worked on exploring new ways of effective fine-tuing of Deep learning models using Evolutionary Algorithms.
 
