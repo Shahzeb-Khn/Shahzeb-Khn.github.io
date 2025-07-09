@@ -1,10 +1,28 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Invitation as field expert 
+  organization: National Accountability Bureau (NAB-KP)
+  # year: 2010, 2014
+  summary: Delivered a talk on Artificial Intelligence: New Dimensions for White-Collar Crime Investigation
+  
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Invitation as field expert 
+  organization: Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI) 
+  # year: 2004
+  summary: Delivered a talk on Understanding Natural Language Processing: How it can bring ease in our lives
+
+- award: Invitation as a panel Judge
+  organization: Udaan (Powered by Google)
+  # year: 2010, 2014
+  summary: An ideathon that aims to empower and support female students in unleashing their entrepreneurial spirit, fostering innovation, and solving societal problems.
+
+  - award: Invitation as a panel Judge
+  organization: Center for Public Policy Research, IMSciences, Peshawar.
+  # year: 2010, 2014
+  summary: Bold pitches met sharp feedback as startup pitching sessions brought Khyber Pakhtunkhwa’s women entrepreneurs face-to-face with opportunities, a chance to strengthen and transform their ideas into reality.
+
+  - award: Invitation as a panel Judge
+  organization: SEE Pakistan, World Startup Championship
+  # year: 2010, 2014
+  summary: World Startup Championship 2025 brings together startups from diverse backgrounds, spanning all walks of life and economic sectors. Supported by national and international institutional partners, this global event aims to identify the most innovative ventures
+  
+
